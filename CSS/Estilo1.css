@@ -116,6 +116,20 @@ p {
 	text-align: justify;
 }
 
-#contenido{
+
+.boton_mostrar{
+	text-align: right;
+	color:#6e0a02;
+
+}
+.boton_mostrar a{
+	cursor: pointer;
+}
+
+#contenido1{
+  clear:both;
+
+}
+#contenido2{
   clear:both;
 }
