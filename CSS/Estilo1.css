@@ -63,7 +63,7 @@ background: linear-gradient(to right, black, #6e0a02 ); /* Standard syntax */
 }
 
 .izquierda {
-	width: 70%;
+	width: 76%;
 	float: left;
 	padding: 1rem;
 }
@@ -79,7 +79,7 @@ background: linear-gradient(to right, black, #6e0a02 ); /* Standard syntax */
 }
 
 .BannerBlog img {
-	width: 200px;
+	width: 250px;
 	height: 60px;	
 	border-radius: 10px 10px 10px 10px;
 	margin-bottom: 1rem;
@@ -93,13 +93,17 @@ background: linear-gradient(to right, black, #6e0a02 ); /* Standard syntax */
 }
 
 .post img{
-	width: 35%;
+	width: 30%;
 	float: left;
-	padding: 1rem;
+	padding-left:  1rem;
+	padding-right:   1rem;
+	padding-bottom:   1rem;
 }
 
 .post h1{
-
+	color: #6e0a02;
+	font-size: 1,1rem;
+	padding-left: 1rem;
 }
 
 .post p{
